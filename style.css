@@ -12,3 +12,12 @@ body{
     color: #d46829;
     font-weight: bold;
 }
+
+#introContainer{
+    width: 470px;
+    float: left;
+}
+
+#introPicture{
+    float: left;
+}
