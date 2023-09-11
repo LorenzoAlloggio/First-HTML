@@ -42,3 +42,8 @@ body{
 .socialThumb{
     float: left;
 }
+
+#mainContainer{
+    width: 900;
+    margin: 0px auto;
+}
