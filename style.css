@@ -21,3 +21,24 @@ body{
 #introPicture{
     float: left;
 }
+
+.reset{
+    clear: both;
+}
+
+#hobbyContainer{
+    width: 410px;
+    float: left;
+}
+
+#heroshot{
+    float: left;
+}
+
+#seasonIslands{
+    float: left;
+}
+
+.socialThumb{
+    float: left;
+}
