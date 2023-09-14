@@ -1,5 +1,5 @@
 body{
-    background-color: #52a78d;
+    background-color: #4b4d4c;
     margin: 0px;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -16,10 +16,12 @@ body{
 #introContainer{
     width: 470px;
     float: left;
+    margin: 0px 0px 0px 37px;
 }
 
 #introPicture{
     float: left;
+    margin: 0px 0px 0px 80px;
 }
 
 .reset{
@@ -29,21 +31,35 @@ body{
 #hobbyContainer{
     width: 410px;
     float: left;
+    margin: 44px 0px 81px 72px;
+    height: 151px;
+}
+
+#hobbyContainer h2{
+margin: 0px;
 }
 
 #heroshot{
     float: left;
+    margin: 8px 0px 0px 102px;
 }
 
 #seasonIslands{
     float: left;
+    margin: 0px 0px 0px 68px;
+
 }
 
 .socialThumb{
     float: left;
+    width: 56px;
+    height: 56px;
+    background-color: #ffffff;
+    margin: 0px 0px 0px 18px;
 }
 
 #mainContainer{
     width: 1200px;
     margin: 0px auto;
+    background-color: #FFFFFF;
 }
