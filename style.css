@@ -4,8 +4,10 @@ body{
     font-family: Arial, Helvetica, sans-serif;
 }
 
+/*Okay comment here*/
+
 #introText{
-    color: #0000FF;
+    color: #000000;
 }
 
 .highlight{
@@ -31,7 +33,7 @@ body{
 #hobbyContainer{
     width: 410px;
     float: left;
-    margin: 44px 0px 81px 72px;
+    margin: 44px 0px 81px 80px;
     height: 151px;
 }
 
@@ -61,6 +63,7 @@ margin: 0px;
 #mainContainer{
     width: 1200px;
     margin: 0px auto;
+    padding: 10px 0px 0px 0px;
     background-color: #FFFFFF;
 }
 
@@ -75,5 +78,16 @@ margin: 0px;
 #navigation a{
     padding: 5px;
     background-color: #00ffea;
+    text-decoration: none;
+    color: #4b4d4c;
     
+}
+
+#navigation a:hover{
+    background-color: #7d7dff;
+}
+
+#navigation{
+    height: 22px;
+    margin:0px 0px 10px 0px;
 }
